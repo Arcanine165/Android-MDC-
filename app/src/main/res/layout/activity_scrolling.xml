@@ -23,6 +23,7 @@
         app:menu="@menu/menu_scrolling"
         app:hideOnScroll="true"
         app:navigationIcon="@drawable/ic_menu" />
+
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
